@@ -11,6 +11,7 @@ The baseline.py accepts only one command line arguement: --end_state, it has to 
 
 ### Example:
 python baseline.py --end_state Apoptosis
+
 <br/><br/>
 The simulations.py and simulations_Bladder_Cancer.py scripts accept two command line arguements: 1.) --end_state and 2.) --type. The second arguement refers to the type of perutbations to be considered, whether constitutive activity (CA) or knockout (KO).
 
