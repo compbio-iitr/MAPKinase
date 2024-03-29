@@ -9,9 +9,9 @@
 
 <br/><br/>
 ## About Files
-1. baseline.py: performs wildtype simulations of the MAP Kinase pathway based on boolean functions written in rules.txt file in input directory without any knockout (KO) or constitutive activity (CA) perturbations.
-2. simulations.py: performs simulations after introducing perturbations in the MAP Kinase network model. The nodes written in targets.txt file in input directory are considered for KO or CA perturbations.
-3. simulations_Bladder_Cancer.py: performs Bladder cancer simulations with KO or CA perturbations.
+1. **baseline.py**: performs wildtype simulations of the MAP Kinase pathway based on boolean functions written in rules.txt file in input directory without any knockout (KO) or constitutive activity (CA) perturbations.
+2. **simulations.py**: performs simulations after introducing perturbations in the MAP Kinase network model. The nodes written in targets.txt file in input directory are considered for KO or CA perturbations.
+3. **simulations_Bladder_Cancer.py**: performs Bladder cancer simulations with KO or CA perturbations.
 
 <br/><br/>
 ## How to use:
