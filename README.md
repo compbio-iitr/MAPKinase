@@ -1,2 +1,2 @@
 # MAPKinase
-MAP Kinase network
+MAP Kinase network model
